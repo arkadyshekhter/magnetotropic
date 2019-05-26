@@ -1,4 +1,4 @@
 # magnetotropic
 
 To view behavior of a spin-dimer model run 
-plot magnetotropic all.vi
+plot magnetotropic -- all.vi
